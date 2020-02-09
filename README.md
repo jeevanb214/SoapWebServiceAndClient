@@ -7,3 +7,6 @@
 4)Thats it, Eclipse Automatically create the webservice_client for You.
 5)By following the further instructions that are shown in the pop up’s you will start the server and GUI will appear and you will give the values andyou will get  the solution for the values.
 6) You can also see the xml files that are gnerated.
+
+
+*******Above there are two projects should Run in the server****************
